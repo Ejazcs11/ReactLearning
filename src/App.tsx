@@ -1,6 +1,6 @@
 // import Message from "./Message";
 
-import ListGroup from "./ListGroup";
+import ListGroup from "./components/ListGroup";
 
 function App() {
   return <div>
